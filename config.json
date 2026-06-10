@@ -1,0 +1,19 @@
+{
+  "subBaciasUrl": "https://meioambiente.sistemas.mpba.mp.br/server/rest/services/Hosted/subbacias/FeatureServer/0",
+  "indiceUrl": "https://meioambiente.sistemas.mpba.mp.br/server/rest/services/Hosted/indice_atual_oeste/FeatureServer/0",
+  "cenarioGrande245Url": "https://meioambiente.sistemas.mpba.mp.br/server/rest/services/Hosted/grande_245/FeatureServer/0",
+  "cenarioGrande585Url": "https://meioambiente.sistemas.mpba.mp.br/server/rest/services/Hosted/grande_585/FeatureServer/0",
+  "classeField245": "classe_245",
+  "classeField585": "classe_585",
+  "pnrh2Field": "pnrh2",
+  "subBaciaField": "sub_bacia",
+  "classeField": "classe",
+  "zoomLayer": "subbacias",
+  "serverUrl": "https://meioambiente.sistemas.mpba.mp.br/server/rest/services",
+  "token": "_zND49dKhvn59tDT4Hq486Up_bdHqCgGH4rzESS0XiqGJCXtUj_nLGstA_ewHvlaR_kP4EtQB-GNt-PlT91G3yqnMB4kaX8jMRojTIZ1PAVL05bdX9lqGEUUv3J13tOg",
+  "widgetPart": "combined",
+  "linkGroupId": "default",
+  "tTopBarHeight": 120,
+  "tStemWidthPercent": 42,
+  "tStemMinHeight": 220
+}
